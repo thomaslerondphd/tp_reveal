@@ -4,7 +4,7 @@
 
 | Étape | État (terminée / partielle / non abordée) | Points de vérification obtenus | Ce qui a bloqué | Temps réel passé par étape |
 |---|---|---|---|---|
-| 1 | | | | |
+| 1 | T | | | 1h |
 | 2 | | | | |
 | 3 | | | | |
 | 4 | | | | |
